@@ -26,14 +26,6 @@ return 0;
 
 }
 
-//tanvir
-//tumpa
-//tanvirtumpa
-
-//tanvir'\n'
-//tumpa'\n'
-
-//tanvir'\n'tumpa'\n'
 
 
 
